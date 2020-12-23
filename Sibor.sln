@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sibor", "Sibor\Sibor.csproj", "{A01F808B-050F-4BA3-A1EC-98CFC3908F2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8F5C2A12-A1DB-42E3-A5EF-93CD16E9610C}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A01F808B-050F-4BA3-A1EC-98CFC3908F2E}.Debug|x64.ActiveCfg = Debug|x86
+		{A01F808B-050F-4BA3-A1EC-98CFC3908F2E}.Debug|x64.Build.0 = Debug|x86
+		{A01F808B-050F-4BA3-A1EC-98CFC3908F2E}.Debug|x86.ActiveCfg = Debug|x86
+		{A01F808B-050F-4BA3-A1EC-98CFC3908F2E}.Debug|x86.Build.0 = Debug|x86
+		{A01F808B-050F-4BA3-A1EC-98CFC3908F2E}.Release|x64.ActiveCfg = Release|x64
+		{A01F808B-050F-4BA3-A1EC-98CFC3908F2E}.Release|x64.Build.0 = Release|x64
+		{A01F808B-050F-4BA3-A1EC-98CFC3908F2E}.Release|x86.ActiveCfg = Release|x86
+		{A01F808B-050F-4BA3-A1EC-98CFC3908F2E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9A83E6B-11B3-4852-89F0-83EAF65038F1}
+	EndGlobalSection
+EndGlobal
